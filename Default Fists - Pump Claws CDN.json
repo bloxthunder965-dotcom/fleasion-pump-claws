@@ -1,9 +1,25 @@
 {
   "replacement_rules": [
     {
+      "name": "Remove left default cuff",
+      "replace_ids": [
+        17600769743
+      ],
+      "mode": "remove",
+      "enabled": true,
+    },
+    {
+      "name": "Remove right default cuff",
+      "replace_ids": [
+        17600769956
+      ],
+      "mode": "remove",
+      "enabled": true
+    },
+    {
       "name": "Left fist to Pump Claws",
       "replace_ids": [
-        12307734932
+        17600769561
       ],
       "mode": "cdn",
       "enabled": true,
@@ -12,7 +28,7 @@
     {
       "name": "Right fist to Pump Claws",
       "replace_ids": [
-        12307583853
+        17600769859
       ],
       "mode": "cdn",
       "enabled": true,
